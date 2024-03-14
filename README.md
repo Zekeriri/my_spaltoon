@@ -8,7 +8,10 @@ Unity development training program Unity 开发培训课程（系列）第四期
 
 简单实现功能：
 1. 视角向上调整，按Y开启和关闭
-2. 喷墨
-3. 潜墨（f）可以加速
-4. 上墙
+   ![image1](https://github.com/Zekeriri/my_spaltoon/blob/main/Image/img0.gif)
+   ![按Y键上下调整视角](https://github.com/Zekeriri/my_spaltoon/assets/115679259/af0997cb-621e-4e14-8285-2aeb799baf1a)
+
+3. 喷墨
+4. 潜墨（f）可以加速
+5. 上墙
 
